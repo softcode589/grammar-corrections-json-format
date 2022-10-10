@@ -1,0 +1,15 @@
+name: Add Labels
+
+on:
+  issues: [opened]
+
+jobs:
+  add_labels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: |
+            new-issue
+            review-needed
