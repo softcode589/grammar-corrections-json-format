@@ -3,8 +3,6 @@ Use JSON files to see and fix grammar errors.
 
 [Click to view the file](./main.json)
 
-## 
-
 ## Format
 Let's explain the format of the json files.
 
@@ -23,4 +21,3 @@ So assuming we have a json file with that criteria here is it:
 
 You could see that `acceppt` (the property name) is spelled incorrectly.  
 You could also see that `accept` (the value) is spelled correctly.
-
