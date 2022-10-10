@@ -3,6 +3,10 @@ Use JSON files to see and fix grammar errors.
 
 [Click to view the file](./main.json)
 
+<!-- Badges -->
+![License: GPL-3.0](https://img.shields.io/github/license/softcode589/grammar-corrections-json-format?style=for-the-badge)
+![Help wanted issues](https://img.shields.io/github/issues/softcode589/grammar-corrections-json-format/help%20wanted?label=help%20wanted%20issues&logo=github&style=for-the-badge)
+
 ## Format
 Let's explain the format of the json files.
 
