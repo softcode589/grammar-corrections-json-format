@@ -1,7 +1,7 @@
 # grammar-corrections-json-format
 Use JSON files to see and fix grammar errors.
 
-[Click to view the file](./main.json)
+[Click to view the file](./main.jsonc)
 
 <!-- Badges -->
 ![License: GPL-3.0](https://img.shields.io/github/license/softcode589/grammar-corrections-json-format?style=for-the-badge)
