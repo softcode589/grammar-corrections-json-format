@@ -5,5 +5,8 @@
   "cycly": "cycle",
   "heayt": "heart",
   "socoal": "social",
-  "fanodm": "fandom" // can also be sentence-cased for the Fandom organization
+  "fanodm": "fandom", // can also be sentence-cased for the Fandom organization
+  "listin": "listen",
+  "yot": "yacht",
+  "tot": "taught"
 }
