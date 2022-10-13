@@ -20,7 +20,7 @@ So assuming we have a json file with that criteria here is it:
 ```json
 {
   "acceppt": "accept"
- }
+}
 ```
 
 You could see that `acceppt` (the property name) is spelled incorrectly.  
