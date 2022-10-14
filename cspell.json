@@ -1,0 +1,10 @@
+{
+  "words": [
+    "grammar",
+    "hello",
+    "grammar",
+    "correct",
+    "fandom"
+   ],
+  "ignoreWords": ["grammar-corrections-json-format"],
+}
