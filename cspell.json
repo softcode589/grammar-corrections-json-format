@@ -6,4 +6,5 @@
     "fandom"
    ],
   "ignoreWords": ["grammar-corrections-json-format"],
+  "ignorePaths": ["main.jsonc"],
 }
