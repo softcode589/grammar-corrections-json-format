@@ -1,6 +1,13 @@
 # grammar-corrections-json-format
 Use JSON files to see and fix grammar errors.
 
+# Maintainers Needed
+This project needs maintainers. The lack of maintainers makes it hard to keep producing new changes and words.
+
+Comment on [this issue](https://github.com/softcode589/grammar-corrections-json-format/issues/5) to request access to the project's management.
+
+## README
+
 [Click to view the file](./main.jsonc)
 
 <!-- Badges -->
